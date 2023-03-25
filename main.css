@@ -13,7 +13,7 @@ flex-direction: column;
 border:1px solid white;
 float: left;
 padding-left:2px;
-background-color: gold;
+
 
 }
 .navbar li{
@@ -24,6 +24,10 @@ text-decoration: none;
 padding: 0px;
 line-height: 20px;
 
+}
+.navbar li a{
+       text-decoration:none;
+    color-black;
 }
 
 h1{
